@@ -1,8 +1,17 @@
 <resources>
+    <string name="book_key">com.example.wk05prove.BOOK</string>
+    <string name="chapter_key">com.example.wk05prove.CHAPTER</string>
+    <string name="pref_key">com.example.wk05prove.SAVE</string>
+    <string name="verse_key">com.example.wk05prove.VERSE</string>
+
     <string name="app_name">Prove</string>
     <string name="ask_favorite">What is your favorite scripture?</string>
+    <string name="btn_load">Load Scripture</string>
+    <string name="btn_save">Save Scripture</string>
+    <string name="btn_submit">Submit</string>
     <string name="label_book">Book</string>
     <string name="label_chapter">Chapter</string>
     <string name="label_verse">Verse</string>
-    <string name="btn_submit">Submit</string>
+    <string name="load_failure">No scripture to load</string>
+    <string name="success_text">Scripture saved</string>
 </resources>
